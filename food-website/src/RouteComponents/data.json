@@ -1,0 +1,842 @@
+[
+    {
+        "name": "Bukhara",
+        "id": 1,
+        "cuisine": [
+          "Chinese",
+          "American",
+          "Continental",
+          "Deserts"
+        ],
+        "costForTwo": 600,
+        "deliveryTime": 30,
+        "payment_methods": {
+          "card": true,
+          "cash": true
+        },
+        "rating": 4.2,
+        "votes": 220,
+        "reviews": 315,
+        "src": "https://c.ndtvimg.com/2020-01/hqocblio_restaurant-_625x300_14_January_20.jpg",
+        "menu": [
+            {
+              "id": "item_1",
+              "name": "Chicken Biryani",
+              "img":"https://www.recipetineats.com/wp-content/uploads/2018/08/Chicken-Biryani_1-1.jpg",
+              "price": 250
+            },
+            {
+              "id": "item_2",
+              "name": "Egg Biryani",
+              "img":"https://recipes.timesofindia.com/thumb/52397749.cms?width=1200&height=1200",
+              "price": 150
+            },
+            {
+              "id": "item_3",
+              "name": "Chicken Biryani(Jumbo Pack)",
+              "img":"https://b.zmtcdn.com/data/pictures/5/19187915/e8e00c713e3a546ab675fbbac4333523.jpg",
+              "price": 800
+            },
+            {
+              "id": "item_4",
+              "name": "Mutton Biryani",
+              "img":"https://www.watscooking.com/images/dish/large/1041.jpg",
+              "price": 400
+            },
+            {
+              "id": "item_5",
+              "name": "Thandoori Roti",
+              "img":"https://media-cdn.tripadvisor.com/media/photo-s/04/83/13/ec/balle-balle-restaurant.jpg",
+              "price": 25
+            },
+            {
+              "id": "item_6",
+              "name": "Rumali Roti",
+              "img":"https://navbharattimes.indiatimes.com/hindi-recipes/wp-content/uploads/sites/2/2018/12/rumali-roti-655x477.jpg",
+              "price": 20
+            },
+            {
+              "id": "item_7",
+              "name": "Mixed Veg Curry",
+              "img":"https://blissismyfood.sathyasai.org/wp-content/uploads/2016/11/mixed-veg-curry.jpg",
+              "price": 350
+            },
+            {
+              "id": "item_8",
+              "name": "Chicken Biryani(Family Pack)",
+              "img":"https://desidine2go.com/wp-content/uploads/2015/09/vijayawadabiryani1.jpg",
+              "price": 600
+            }
+        ]
+    },
+    {
+        "name": "Masala Kraft",
+        "id": 2,
+        "cuisine": [
+          "Chinese",
+          "American",
+          "Continental",
+          "Deserts"
+        ],
+        "costForTwo": 800,
+        "deliveryTime": 15,
+        "payment_methods": {
+          "card": true,
+          "cash": true
+        },
+        "rating": 4.1,
+        "votes": 112,
+        "reviews": 230,
+        "src": "https://blog.dineout-cdn.co.in/blog/wp-content/uploads/2017/10/cyberhub_1100x575px-1-1030x538.jpg",
+        "menu": [
+            {
+              "id": "item_11",
+              "name": "Chicken Biryani",
+              "img":"https://www.recipetineats.com/wp-content/uploads/2018/08/Chicken-Biryani_1-1.jpg",
+              "price": 250
+            },
+            {
+              "id": "item_22",
+              "name": "Egg Biryani",
+              "img":"https://recipes.timesofindia.com/thumb/52397749.cms?width=1200&height=1200",
+              "price": 150
+            },
+            {
+              "id": "item_33",
+              "name": "Chicken Biryani(Jumbo Pack)",
+              "img":"https://b.zmtcdn.com/data/pictures/5/19187915/e8e00c713e3a546ab675fbbac4333523.jpg",
+              "price": 800
+            },
+            {
+              "id": "item_44",
+              "name": "Mutton Biryani",
+              "img":"https://www.watscooking.com/images/dish/large/1041.jpg",
+              "price": 400
+            },
+            {
+              "id": "item_55",
+              "name": "Thandoori Roti",
+              "img":"https://media-cdn.tripadvisor.com/media/photo-s/04/83/13/ec/balle-balle-restaurant.jpg",
+              "price": 25
+            },
+            {
+              "id": "item_66",
+              "name": "Rumali Roti",
+              "img":"https://navbharattimes.indiatimes.com/hindi-recipes/wp-content/uploads/sites/2/2018/12/rumali-roti-655x477.jpg",
+              "price": 20
+            },
+            {
+              "id": "item_77",
+              "name": "Mixed Veg Curry",
+              "img":"https://blissismyfood.sathyasai.org/wp-content/uploads/2016/11/mixed-veg-curry.jpg",
+              "price": 350
+            },
+            {
+              "id": "item_88",
+              "name": "Chicken Biryani(Family Pack)",
+              "img":"https://desidine2go.com/wp-content/uploads/2015/09/vijayawadabiryani1.jpg",
+              "price": 600
+            }
+        ]
+    },
+    {
+        "name": "Orient Express",
+        "id": 3,
+        "cuisine": [
+          "Chinese",
+          "American",
+          "Continental",
+          "Deserts"
+        ],
+        "costForTwo": 700,
+        "deliveryTime": 20,
+        "payment_methods": {
+          "card": true,
+          "cash": true
+        },
+        "rating": 3.8,
+        "votes": 515,
+        "reviews": 336,
+        "src": "https://london-post.co.uk/wp-content/uploads/2019/01/img_1668.jpg",
+        "menu": [
+            {
+              "id": "item_111",
+              "name": "Chicken Biryani",
+              "img":"https://www.recipetineats.com/wp-content/uploads/2018/08/Chicken-Biryani_1-1.jpg",
+              "price": 250
+            },
+            {
+              "id": "item_222",
+              "name": "Egg Biryani",
+              "img":"https://recipes.timesofindia.com/thumb/52397749.cms?width=1200&height=1200",
+              "price": 150
+            },
+            {
+              "id": "item_333",
+              "name": "Chicken Biryani(Jumbo Pack)",
+              "img":"https://b.zmtcdn.com/data/pictures/5/19187915/e8e00c713e3a546ab675fbbac4333523.jpg",
+              "price": 800
+            },
+            {
+              "id": "item_444",
+              "name": "Mutton Biryani",
+              "img":"https://www.watscooking.com/images/dish/large/1041.jpg",
+              "price": 400
+            },
+            {
+              "id": "item_555",
+              "name": "Thandoori Roti",
+              "img":"https://media-cdn.tripadvisor.com/media/photo-s/04/83/13/ec/balle-balle-restaurant.jpg",
+              "price": 25
+            },
+            {
+              "id": "item_666",
+              "name": "Rumali Roti",
+              "img":"https://navbharattimes.indiatimes.com/hindi-recipes/wp-content/uploads/sites/2/2018/12/rumali-roti-655x477.jpg",
+              "price": 20
+            },
+            {
+              "id": "item_777",
+              "name": "Mixed Veg Curry",
+              "img":"https://blissismyfood.sathyasai.org/wp-content/uploads/2016/11/mixed-veg-curry.jpg",
+              "price": 350
+            },
+            {
+              "id": "item_888",
+              "name": "Chicken Biryani(Family Pack)",
+              "img":"https://desidine2go.com/wp-content/uploads/2015/09/vijayawadabiryani1.jpg",
+              "price": 600
+            }
+        ]
+    },
+    {
+        "name": "Yuuka",
+        "id": 4,
+        "cuisine": [
+          "Chinese",
+          "American",
+          "Continental",
+          "Deserts"
+        ],
+        "costForTwo": 600,
+        "deliveryTime": 30,
+        "payment_methods": {
+          "card": true,
+          "cash": true
+        },
+        "rating": 3.5,
+        "votes": 101,
+        "reviews": 335,
+        "src": "https://content3.jdmagicbox.com/comp/raigad-maharashtra/p0/9999p2145.2145.180420114659.n6p0/catalogue/the-square-novotel-imagica-khopoli--khopoli-raigad-maharashtra-restaurants-u8kxolkhkx.jpg",
+        "menu": [
+            {
+              "id": "item_1111",
+              "name": "Chicken Biryani",
+              "img":"https://www.recipetineats.com/wp-content/uploads/2018/08/Chicken-Biryani_1-1.jpg",
+              "price": 250
+            },
+            {
+              "id": "item_2222",
+              "name": "Egg Biryani",
+              "img":"https://recipes.timesofindia.com/thumb/52397749.cms?width=1200&height=1200",
+              "price": 150
+            },
+            {
+              "id": "item_3333",
+              "name": "Chicken Biryani(Jumbo Pack)",
+              "img":"https://b.zmtcdn.com/data/pictures/5/19187915/e8e00c713e3a546ab675fbbac4333523.jpg",
+              "price": 800
+            },
+            {
+              "id": "item_4444",
+              "name": "Mutton Biryani",
+              "img":"https://www.watscooking.com/images/dish/large/1041.jpg",
+              "price": 400
+            },
+            {
+              "id": "item_5555",
+              "name": "Thandoori Roti",
+              "img":"https://media-cdn.tripadvisor.com/media/photo-s/04/83/13/ec/balle-balle-restaurant.jpg",
+              "price": 25
+            },
+            {
+              "id": "item_6666",
+              "name": "Rumali Roti",
+              "img":"https://navbharattimes.indiatimes.com/hindi-recipes/wp-content/uploads/sites/2/2018/12/rumali-roti-655x477.jpg",
+              "price": 20
+            },
+            {
+              "id": "item_7777",
+              "name": "Mixed Veg Curry",
+              "img":"https://blissismyfood.sathyasai.org/wp-content/uploads/2016/11/mixed-veg-curry.jpg",
+              "price": 350
+            },
+            {
+              "id": "item_8888",
+              "name": "Chicken Biryani(Family Pack)",
+              "img":"https://desidine2go.com/wp-content/uploads/2015/09/vijayawadabiryani1.jpg",
+              "price": 600
+            }
+        ]
+    },
+    {
+        "name": "Dum Pukht Jolly",
+        "id": 5,
+        "cuisine": [
+          "Chinese",
+          "American",
+          "Continental",
+          "Deserts"
+        ],
+        "costForTwo": 650,
+        "deliveryTime": 45,
+        "payment_methods": {
+          "card": true,
+          "cash": true
+        },
+        "rating": 4.3,
+        "votes": 719,
+        "reviews": 223,
+        "src": "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/98/2017/01/13091829/Restaurant-The-Square.jpg",
+        "menu": [
+            {
+              "id": "item_11111",
+              "name": "Chicken Biryani",
+              "img":"https://www.recipetineats.com/wp-content/uploads/2018/08/Chicken-Biryani_1-1.jpg",
+              "price": 250
+            },
+            {
+              "id": "item_22222",
+              "name": "Egg Biryani",
+              "img":"https://recipes.timesofindia.com/thumb/52397749.cms?width=1200&height=1200",
+              "price": 150
+            },
+            {
+              "id": "item_33333",
+              "name": "Chicken Biryani(Jumbo Pack)",
+              "img":"https://b.zmtcdn.com/data/pictures/5/19187915/e8e00c713e3a546ab675fbbac4333523.jpg",
+              "price": 800
+            },
+            {
+              "id": "item_44444",
+              "name": "Mutton Biryani",
+              "img":"https://www.watscooking.com/images/dish/large/1041.jpg",
+              "price": 400
+            },
+            {
+              "id": "item_55555",
+              "name": "Thandoori Roti",
+              "img":"https://media-cdn.tripadvisor.com/media/photo-s/04/83/13/ec/balle-balle-restaurant.jpg",
+              "price": 25
+            },
+            {
+              "id": "item_66666",
+              "name": "Rumali Roti",
+              "img":"https://navbharattimes.indiatimes.com/hindi-recipes/wp-content/uploads/sites/2/2018/12/rumali-roti-655x477.jpg",
+              "price": 20
+            },
+            {
+              "id": "item_77777",
+              "name": "Mixed Veg Curry",
+              "img":"https://blissismyfood.sathyasai.org/wp-content/uploads/2016/11/mixed-veg-curry.jpg",
+              "price": 350
+            },
+            {
+              "id": "item_88888",
+              "name": "Chicken Biryani(Family Pack)",
+              "img":"https://desidine2go.com/wp-content/uploads/2015/09/vijayawadabiryani1.jpg",
+              "price": 600
+            }
+        ]
+    },
+    {
+        "name": "Taj Falaknuma Palace",
+        "id": 6,
+        "cuisine": [
+          "Chinese",
+          "American",
+          "Continental",
+          "Deserts"
+        ],
+        "costForTwo": 900,
+        "deliveryTime": 30,
+        "payment_methods": {
+          "card": true,
+          "cash": true
+        },
+        "rating": 3.8,
+        "votes": 230,
+        "reviews": 242,
+        "src": "https://www.palmerainnandsuites.com/uploads/9/8/6/9/98696462/dining_5.jpg",
+        "menu": [
+            {
+              "id": "item_111111",
+              "name": "Chicken Biryani",
+              "img":"https://www.recipetineats.com/wp-content/uploads/2018/08/Chicken-Biryani_1-1.jpg",
+              "price": 250
+            },
+            {
+              "id": "item_222222",
+              "name": "Egg Biryani",
+              "img":"https://recipes.timesofindia.com/thumb/52397749.cms?width=1200&height=1200",
+              "price": 150
+            },
+            {
+              "id": "item_333333",
+              "name": "Chicken Biryani(Jumbo Pack)",
+              "img":"https://b.zmtcdn.com/data/pictures/5/19187915/e8e00c713e3a546ab675fbbac4333523.jpg",
+              "price": 800
+            },
+            {
+              "id": "item_444444",
+              "name": "Mutton Biryani",
+              "img":"https://www.watscooking.com/images/dish/large/1041.jpg",
+              "price": 400
+            },
+            {
+              "id": "item_555555",
+              "name": "Thandoori Roti",
+              "img":"https://media-cdn.tripadvisor.com/media/photo-s/04/83/13/ec/balle-balle-restaurant.jpg",
+              "price": 25
+            },
+            {
+              "id": "item_666666",
+              "name": "Rumali Roti",
+              "img":"https://navbharattimes.indiatimes.com/hindi-recipes/wp-content/uploads/sites/2/2018/12/rumali-roti-655x477.jpg",
+              "price": 20
+            },
+            {
+              "id": "item_777777",
+              "name": "Mixed Veg Curry",
+              "img":"https://blissismyfood.sathyasai.org/wp-content/uploads/2016/11/mixed-veg-curry.jpg",
+              "price": 350
+            },
+            {
+              "id": "item_888888",
+              "name": "Chicken Biryani(Family Pack)",
+              "img":"https://desidine2go.com/wp-content/uploads/2015/09/vijayawadabiryani1.jpg",
+              "price": 600
+            }
+        ]
+    },
+    {
+        "name": "Leela Palace",
+        "id": 7,
+        "cuisine": [
+          "Chinese",
+          "American",
+          "Continental",
+          "Deserts"
+        ],
+        "costForTwo": 800,
+        "deliveryTime": 15,
+        "payment_methods": {
+          "card": true,
+          "cash": true
+        },
+        "rating": 4.1,
+        "votes": 323,
+        "reviews": 415,
+        "src": "https://www.fabhotels.com/blog/wp-content/uploads/2018/09/Rooftop-Breeze.jpg",
+        "menu": [
+            {
+              "id": "item_1-7",
+              "name": "Chicken Biryani",
+              "img":"https://www.recipetineats.com/wp-content/uploads/2018/08/Chicken-Biryani_1-1.jpg",
+              "price": 250
+            },
+            {
+              "id": "item_2-7",
+              "name": "Egg Biryani",
+              "img":"https://recipes.timesofindia.com/thumb/52397749.cms?width=1200&height=1200",
+              "price": 150
+            },
+            {
+              "id": "item_3-7",
+              "name": "Chicken Biryani(Jumbo Pack)",
+              "img":"https://b.zmtcdn.com/data/pictures/5/19187915/e8e00c713e3a546ab675fbbac4333523.jpg",
+              "price": 800
+            },
+            {
+              "id": "item_4-7",
+              "name": "Mutton Biryani",
+              "img":"https://www.watscooking.com/images/dish/large/1041.jpg",
+              "price": 400
+            },
+            {
+              "id": "item_5-7",
+              "name": "Thandoori Roti",
+              "img":"https://media-cdn.tripadvisor.com/media/photo-s/04/83/13/ec/balle-balle-restaurant.jpg",
+              "price": 25
+            },
+            {
+              "id": "item_6-7",
+              "name": "Rumali Roti",
+              "img":"https://navbharattimes.indiatimes.com/hindi-recipes/wp-content/uploads/sites/2/2018/12/rumali-roti-655x477.jpg",
+              "price": 20
+            },
+            {
+              "id": "item_7-7",
+              "name": "Mixed Veg Curry",
+              "img":"https://blissismyfood.sathyasai.org/wp-content/uploads/2016/11/mixed-veg-curry.jpg",
+              "price": 350
+            },
+            {
+              "id": "item_8-7",
+              "name": "Chicken Biryani(Family Pack)",
+              "img":"https://desidine2go.com/wp-content/uploads/2015/09/vijayawadabiryani1.jpg",
+              "price": 600
+            }
+        ]
+    },
+    {
+        "name": "Travertino",
+        "id": 8,
+        "cuisine": [
+          "Chinese",
+          "American",
+          "Continental",
+          "Deserts"
+        ],
+        "costForTwo": 500,
+        "deliveryTime": 30,
+        "payment_methods": {
+          "card": true,
+          "cash": true
+        },
+        "rating": 3.6,
+        "votes": 545,
+        "reviews": 412,
+        "src": "https://media-cdn.tripadvisor.com/media/photo-s/16/de/af/d8/biala-roza-main-restaurant.jpg",
+        "menu": [
+            {
+              "id": "item_1-8",
+              "name": "Chicken Biryani",
+              "img":"https://www.recipetineats.com/wp-content/uploads/2018/08/Chicken-Biryani_1-1.jpg",
+              "price": 250
+            },
+            {
+              "id": "item_2-8",
+              "name": "Egg Biryani",
+              "img":"https://recipes.timesofindia.com/thumb/52397749.cms?width=1200&height=1200",
+              "price": 150
+            },
+            {
+              "id": "item_3-8",
+              "name": "Chicken Biryani(Jumbo Pack)",
+              "img":"https://b.zmtcdn.com/data/pictures/5/19187915/e8e00c713e3a546ab675fbbac4333523.jpg",
+              "price": 800
+            },
+            {
+              "id": "item_4-8",
+              "name": "Mutton Biryani",
+              "img":"https://www.watscooking.com/images/dish/large/1041.jpg",
+              "price": 400
+            },
+            {
+              "id": "item_5-8",
+              "name": "Thandoori Roti",
+              "img":"https://media-cdn.tripadvisor.com/media/photo-s/04/83/13/ec/balle-balle-restaurant.jpg",
+              "price": 25
+            },
+            {
+              "id": "item_6-8",
+              "name": "Rumali Roti",
+              "img":"https://navbharattimes.indiatimes.com/hindi-recipes/wp-content/uploads/sites/2/2018/12/rumali-roti-655x477.jpg",
+              "price": 20
+            },
+            {
+              "id": "item_7-8",
+              "name": "Mixed Veg Curry",
+              "img":"https://blissismyfood.sathyasai.org/wp-content/uploads/2016/11/mixed-veg-curry.jpg",
+              "price": 350
+            },
+            {
+              "id": "item_8-8",
+              "name": "Chicken Biryani(Family Pack)",
+              "img":"https://desidine2go.com/wp-content/uploads/2015/09/vijayawadabiryani1.jpg",
+              "price": 600
+            }
+        ]
+    },
+    {
+        "name": "Grand Hyatt",
+        "id": 9,
+        "cuisine": [
+          "Chinese",
+          "American",
+          "Continental",
+          "Deserts"
+        ],
+        "costForTwo": 650,
+        "deliveryTime": 10,
+        "payment_methods": {
+          "card": true,
+          "cash": true
+        },
+        "rating": 3.3,
+        "votes": 463,
+        "reviews": 230,
+        "src": "https://www.sunnysworldpune.com/blog/wp-content/uploads/2019/11/The-Ruby-Restaurant.jpg",
+        "menu": [
+            {
+              "id": "item_1-9",
+              "name": "Chicken Biryani",
+              "img":"https://www.recipetineats.com/wp-content/uploads/2018/08/Chicken-Biryani_1-1.jpg",
+              "price": 250
+            },
+            {
+              "id": "item_2-9",
+              "name": "Egg Biryani",
+              "img":"https://recipes.timesofindia.com/thumb/52397749.cms?width=1200&height=1200",
+              "price": 150
+            },
+            {
+              "id": "item_3-9",
+              "name": "Chicken Biryani(Jumbo Pack)",
+              "img":"https://b.zmtcdn.com/data/pictures/5/19187915/e8e00c713e3a546ab675fbbac4333523.jpg",
+              "price": 800
+            },
+            {
+              "id": "item_4-9",
+              "name": "Mutton Biryani",
+              "img":"https://www.watscooking.com/images/dish/large/1041.jpg",
+              "price": 400
+            },
+            {
+              "id": "item_5-9",
+              "name": "Thandoori Roti",
+              "img":"https://media-cdn.tripadvisor.com/media/photo-s/04/83/13/ec/balle-balle-restaurant.jpg",
+              "price": 25
+            },
+            {
+              "id": "item_6-9",
+              "name": "Rumali Roti",
+              "img":"https://navbharattimes.indiatimes.com/hindi-recipes/wp-content/uploads/sites/2/2018/12/rumali-roti-655x477.jpg",
+              "price": 20
+            },
+            {
+              "id": "item_7-9",
+              "name": "Mixed Veg Curry",
+              "img":"https://blissismyfood.sathyasai.org/wp-content/uploads/2016/11/mixed-veg-curry.jpg",
+              "price": 350
+            },
+            {
+              "id": "item_8-9",
+              "name": "Chicken Biryani(Family Pack)",
+              "img":"https://desidine2go.com/wp-content/uploads/2015/09/vijayawadabiryani1.jpg",
+              "price": 600
+            }
+        ]
+    },
+    {
+        "name": "Bahar Cafe",
+        "id": 10,
+        "cuisine": [
+          "Chinese",
+          "American",
+          "Continental",
+          "Deserts"
+        ],
+        "costForTwo": 700,
+        "deliveryTime": 15,
+        "payment_methods": {
+          "card": true,
+          "cash": true
+        },
+        "rating": 2.3,
+        "votes": 220,
+        "reviews": 315,
+        "src": "https://assets.vogue.com/photos/5d13ce66dc44c60009c00a2a/4:3/w_3000,h_2250,c_limit/00-promo-image-best-restaurant-in-the-world-mirazur-france.jpg",
+        "menu": [
+          {
+            "id": "item_1-10",
+            "name": "Chicken Biryani",
+            "img":"https://www.recipetineats.com/wp-content/uploads/2018/08/Chicken-Biryani_1-1.jpg",
+            "price": 250
+          },
+          {
+            "id": "item_2-10",
+            "name": "Egg Biryani",
+            "img":"https://recipes.timesofindia.com/thumb/52397749.cms?width=1200&height=1200",
+            "price": 150
+          },
+          {
+            "id": "item_3-10",
+            "name": "Chicken Biryani(Jumbo Pack)",
+            "img":"https://b.zmtcdn.com/data/pictures/5/19187915/e8e00c713e3a546ab675fbbac4333523.jpg",
+            "price": 800
+          },
+          {
+            "id": "item_4-10",
+            "name": "Mutton Biryani",
+            "img":"https://www.watscooking.com/images/dish/large/1041.jpg",
+            "price": 400
+          },
+          {
+            "id": "item_5-10",
+            "name": "Thandoori Roti",
+            "img":"https://media-cdn.tripadvisor.com/media/photo-s/04/83/13/ec/balle-balle-restaurant.jpg",
+            "price": 25
+          },
+          {
+            "id": "item_6-10",
+            "name": "Rumali Roti",
+            "img":"https://navbharattimes.indiatimes.com/hindi-recipes/wp-content/uploads/sites/2/2018/12/rumali-roti-655x477.jpg",
+            "price": 20
+          },
+          {
+            "id": "item_7-10",
+            "name": "Mixed Veg Curry",
+            "img":"https://blissismyfood.sathyasai.org/wp-content/uploads/2016/11/mixed-veg-curry.jpg",
+            "price": 350
+          },
+          {
+            "id": "item_8-10",
+            "name": "Chicken Biryani(Family Pack)",
+            "img":"https://desidine2go.com/wp-content/uploads/2015/09/vijayawadabiryani1.jpg",
+            "price": 600
+          }
+        ]
+    },
+    {
+       "name": "The Gateway Hotel",
+        "id": 11,
+        "cuisine": [
+          "Chinese",
+          "American",
+          "Continental",
+          "Deserts"
+        ],
+        "costForTwo": 400,
+        "deliveryTime": 30,
+        "payment_methods": {
+          "card": true,
+          "cash": true
+        },
+        "rating": 1.2,
+        "votes": 101,
+        "reviews": 715,
+        "src": "https://www.spatz.pl/thumb/800x600/uploads/restauracjakrakow2.jpg",
+        "menu": [
+            {
+              "id": "item_1-11",
+              "name": "Chicken Biryani",
+              "img":"https://www.recipetineats.com/wp-content/uploads/2018/08/Chicken-Biryani_1-1.jpg",
+              "price": 250
+            },
+            {
+              "id": "item_2-11",
+              "name": "Egg Biryani",
+              "img":"https://recipes.timesofindia.com/thumb/52397749.cms?width=1200&height=1200",
+              "price": 150
+            },
+            {
+              "id": "item_3-11",
+              "name": "Chicken Biryani(Jumbo Pack)",
+              "img":"https://b.zmtcdn.com/data/pictures/5/19187915/e8e00c713e3a546ab675fbbac4333523.jpg",
+              "price": 800
+            },
+            {
+              "id": "item_4-11",
+              "name": "Mutton Biryani",
+              "img":"https://www.watscooking.com/images/dish/large/1041.jpg",
+              "price": 400
+            },
+            {
+              "id": "item_5-11",
+              "name": "Thandoori Roti",
+              "img":"https://media-cdn.tripadvisor.com/media/photo-s/04/83/13/ec/balle-balle-restaurant.jpg",
+              "price": 25
+            },
+            {
+              "id": "item_6-11",
+              "name": "Rumali Roti",
+              "img":"https://navbharattimes.indiatimes.com/hindi-recipes/wp-content/uploads/sites/2/2018/12/rumali-roti-655x477.jpg",
+              "price": 20
+            },
+            {
+              "id": "item_7-11",
+              "name": "Mixed Veg Curry",
+              "img":"https://blissismyfood.sathyasai.org/wp-content/uploads/2016/11/mixed-veg-curry.jpg",
+              "price": 350
+            },
+            {
+              "id": "item_8-11",
+              "name": "Chicken Biryani(Family Pack)",
+              "img":"https://desidine2go.com/wp-content/uploads/2015/09/vijayawadabiryani1.jpg",
+              "price": 600
+            }
+        ]
+    },
+    {
+      "name": "Vivanta by Taj",
+       "id": 12,
+       "cuisine": [
+         "Chinese",
+         "American",
+         "Continental",
+         "Deserts"
+       ],
+       "costForTwo": 600,
+       "deliveryTime": 15,
+       "payment_methods": {
+         "card": true,
+         "cash": true
+       },
+       "rating": 1.2,
+       "votes": 256,
+       "reviews": 415,
+       "src": "https://media.timeout.com/images/105239239/image.jpg",
+       "menu": [
+           {
+             "id": "item_1-12",
+             "name": "Chicken Biryani",
+             "img":"https://www.recipetineats.com/wp-content/uploads/2018/08/Chicken-Biryani_1-1.jpg",
+             "price": 250
+           },
+           {
+             "id": "item_2-12",
+             "name": "Egg Biryani",
+             "img":"https://recipes.timesofindia.com/thumb/52397749.cms?width=1200&height=1200",
+             "price": 150
+           },
+           {
+             "id": "item_3-12",
+             "name": "Chicken Biryani(Jumbo Pack)",
+             "img":"https://b.zmtcdn.com/data/pictures/5/19187915/e8e00c713e3a546ab675fbbac4333523.jpg",
+             "price": 800
+           },
+           {
+             "id": "item_4-12",
+             "name": "Mutton Biryani",
+             "img":"https://www.watscooking.com/images/dish/large/1041.jpg",
+             "price": 400
+           },
+           {
+             "id": "item_5-12",
+             "name": "Thandoori Roti",
+             "img":"https://media-cdn.tripadvisor.com/media/photo-s/04/83/13/ec/balle-balle-restaurant.jpg",
+             "price": 25
+           },
+           {
+             "id": "item_6-12",
+             "name": "Rumali Roti",
+             "img":"https://navbharattimes.indiatimes.com/hindi-recipes/wp-content/uploads/sites/2/2018/12/rumali-roti-655x477.jpg",
+             "price": 20
+           },
+           {
+             "id": "item_7-12",
+             "name": "Mixed Veg Curry",
+             "img":"https://blissismyfood.sathyasai.org/wp-content/uploads/2016/11/mixed-veg-curry.jpg",
+             "price": 350
+           },
+           {
+             "id": "item_8-12",
+             "name": "Chicken Biryani(Family Pack)",
+             "img":"https://desidine2go.com/wp-content/uploads/2015/09/vijayawadabiryani1.jpg",
+             "price": 600
+           }
+       ]
+   }
+]
